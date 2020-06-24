@@ -1,3 +1,3 @@
 # Hello-World
 
-Using this a practice.
+Using this as practice.
